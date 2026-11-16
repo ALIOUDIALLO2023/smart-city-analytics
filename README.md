@@ -299,13 +299,13 @@ However, PySpark offers better scalability for large-scale enterprise environmen
 
 ## Number of Trips by Hour
 
-![Trips by Hour](assets/Number of Trips by Hour.png)
+![Trips by Hour](assets/Number_of_Trips_by_Hour.png)
 
 ---
 
 ## Weekday Demand
 
-![Weekday Demand](assets/Weekday Demand.png)
+![Weekday Demand](assets/Weekday_Demand.png)
 
 ---
 
