@@ -295,6 +295,36 @@ The dataset remains manageable on a single machine.
 However, PySpark offers better scalability for large-scale enterprise environments containing hundreds of millions of records.
 
 ---
+# Project Visualizations
+
+## Number of Trips by Hour
+
+![Trips by Hour](assets/trip_by_hour.png)
+
+---
+
+## Weekday Demand
+
+![Weekday Demand](assets/weekday_demand.png)
+
+---
+
+## Model Comparison
+
+![Model Comparison](assets/model_comparison.png)
+
+---
+
+## Feature Importance
+
+![Feature Importance](assets/feature_importance.png)
+
+---
+
+## SARIMA Forecast
+
+![SARIMA Forecast](assets/sarima_forecast.png)
+
 
 #  Technologies Used
 
