@@ -1,0 +1,15 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+statsmodels
+streamlit
+plotly
+pyspark
+psycopg2-binary
+sqlalchemy
+folium
+openpyxl
+xgboost
+shap
